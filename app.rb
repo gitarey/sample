@@ -17,3 +17,11 @@ get '/muktiwibowo' do
 	'mukti wibowo dari uad'
 end
 
+get '/feat-a' do
+	'Ini adalah Feature A'
+end
+
+get '/an' do
+	'Nama	: Achmad N'
+end
+
