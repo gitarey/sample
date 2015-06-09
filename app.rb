@@ -30,6 +30,9 @@ end
 
 get '/an' do
 	'Nama	: Achmad N'
+
+get '/an' do
+	'Nama	: Gita Reynaldi S'
 end
 
 
