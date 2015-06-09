@@ -27,3 +27,7 @@ get '/an' do
 	'Nama	: Achmad N'
 end
 
+
+get '/cantya' do
+	'Nama	: cantya'
+end
