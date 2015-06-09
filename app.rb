@@ -18,7 +18,9 @@ get '/muktiwibowo' do
 end
 
 get '/feat-a' do
-	'Ini adalah Feature A'
+	'''Waqid Nugroho
+	FKYK
+	'''
 end
 
 get '/an' do
