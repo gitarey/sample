@@ -31,7 +31,7 @@ end
 get '/an' do
 	'Nama	: Achmad N'
 
-get '/an' do
+get '/gitt' do
 	'Nama	: Gita'
 end
 
