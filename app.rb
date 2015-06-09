@@ -1,7 +1,12 @@
 require 'sinatra'
 
 get '/' do
-  'Hello World, Hore Hore'
+  '''
+nama : jamalludin
+nim : 1300018089
+fakultas teknik informatika
+
+'''
 end
 
 get '/feat-a' do
