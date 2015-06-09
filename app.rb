@@ -5,7 +5,9 @@ get '/' do
 end
 
 get '/feat-a' do
-	'Ini adalah Feature A'
+	'''Waqid Nugroho
+	FKYK
+	'''
 end
 
 
